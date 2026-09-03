@@ -166,4 +166,5 @@ A supporting, normal analytical dashboard built for extra Power BI practice — 
 ## 👤 Author
 
 **Sachin Gupta**
-Aspiring Data Analyst | Advanced Excel · Power BI · SQL · Python
+Aspiring Data Analyst | Advanced Excel · Power BI · SQL · AI for EDA
+
